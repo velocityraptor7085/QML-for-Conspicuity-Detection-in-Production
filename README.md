@@ -37,7 +37,7 @@ Team Member 1:
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-UHsCazMxbiR3RZn
 
 ### Project Solution:
-Tasks 1-3 of the Fruanhofer QML challenge have been implemented in this project:
+Tasks 1-3 of the Fruanhofer QML challenge have been implemented in this project (in directories "Task-1", "Task-2", and "Task-3" respectively:
 
 Task 1:
   - All study material was completed from the Pennylane Codebook. (https://pennylane.ai/codebook/)
