@@ -33,21 +33,36 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+ - Full Name: Archit Chadalawada
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-UHsCazMxbiR3RZn
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+Tasks 1-3 of the Fruanhofer QML challenge have been implemented in this project:
+1. Task 1:
+  - All study material was completed from the Pennylane Codebook. (https://pennylane.ai/codebook/)
+  - All the codercizes from:
+      1. Introduction to Quantum Computing
+      2. Single Qubit Gates
+      3. Circuits with Many Qubits
+    were completed and their codes are visible in the "Task-1" folder.
+2. Task 2:
+  - The Pennylane demo on variational classifiers was read through. (https://pennylane.ai/qml/demos/tutorial_variational_classifier/)
+  - The variational classifiers were implemented and the general workflow of variational algorithms was described.
+  - Code of implementation was commented and the purpose of each step was explained thoroughly.
+3. Task 3:
+  - The Pennylane demo on Quanvolutional Neural Networks (QNNs) was read through (https://pennylane.ai/qml/demos/tutorial_quanvolution/) along with the original research paper (https://arxiv.org/abs/1904.04767)
+  - The QNN for classification of handwritten digits (0-9) on the MNIST dataset was implemented and its accuracy was compared against traditional neural network methods.
+  - The working and processes involved in:
+      1. Data encoding
+      2. Data preprocessing
+      3. Circuit ansatz
+      4. Quantum kernel implementation
+      5. Model training and validation
+    were elaborated on in detail with explanations of each line of code in the implementation.
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+
+Link to presentation deck: https://docs.google.com/presentation/d/1pQU2G3tJqQw7VJLXWNczLkxDzwSrR9cBExTGSk-ATMA/edit?usp=sharing
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
