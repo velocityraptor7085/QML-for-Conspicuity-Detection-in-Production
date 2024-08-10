@@ -38,18 +38,21 @@ Team Member 1:
 
 ### Project Solution:
 Tasks 1-3 of the Fruanhofer QML challenge have been implemented in this project:
-1. Task 1:
+
+Task 1:
   - All study material was completed from the Pennylane Codebook. (https://pennylane.ai/codebook/)
   - All the codercizes from:
       1. Introduction to Quantum Computing
       2. Single Qubit Gates
       3. Circuits with Many Qubits
     were completed and their codes are visible in the "Task-1" folder.
-2. Task 2:
+
+Task 2:
   - The Pennylane demo on variational classifiers was read through. (https://pennylane.ai/qml/demos/tutorial_variational_classifier/)
   - The variational classifiers were implemented and the general workflow of variational algorithms was described.
   - Code of implementation was commented and the purpose of each step was explained thoroughly.
-3. Task 3:
+
+Task 3:
   - The Pennylane demo on Quanvolutional Neural Networks (QNNs) was read through (https://pennylane.ai/qml/demos/tutorial_quanvolution/) along with the original research paper (https://arxiv.org/abs/1904.04767)
   - The QNN for classification of handwritten digits (0-9) on the MNIST dataset was implemented and its accuracy was compared against traditional neural network methods.
   - The working and processes involved in:
